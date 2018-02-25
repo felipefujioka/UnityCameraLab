@@ -1,9 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using DG.Tweening;
+﻿using DG.Tweening;
 using TouchScript.Gestures.TransformGestures;
-using TouchScript.InputSources;
-using UnityEditor;
 using UnityEngine;
 
 [RequireComponent(typeof(ScreenTransformGesture))]

@@ -1118,9 +1118,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zoomLimits: {x: 1, y: 13}
-  panSpeed: 0.1
+  panSpeed: 0.05
   rotationDuration: 1
-  invertedCamera: 1
+  invertedCamera: 0
 --- !u!114 &2112352820
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1132,7 +1132,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74ae431eff8434b0897d3f7f1cff4311, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  debugMode: 0
   OnStateChange:
     m_PersistentCalls:
       m_Calls: []
